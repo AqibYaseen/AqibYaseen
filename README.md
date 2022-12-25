@@ -4,8 +4,6 @@
 - 💞️ I’m looking to collaborate on any Frontend Project ...
 - 📫 How to reach me mail-to : aqibyaseenbhat+github@gmail.com
 
-
-<!---
-AqibYaseen/AqibYaseen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!-- ## 🌐 Reach me at:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aqib-yaseen/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/aqibyaseenbhat) 
+ -->
