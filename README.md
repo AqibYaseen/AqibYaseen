@@ -19,29 +19,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aqibyaseen&show_icons=true&locale=en&layout=compact" alt="aqibyaseen" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aqibyaseen&show_icons=true&locale=en" alt="aqibyaseen" /></p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<-- 
-
-👋 Hi, I’m @AqibYaseen
-- 👀 I’m a Frontend Developer ...
-- 🌱 I’m currently learning Angular, Docker, C# & .NET ...
-- 💞️ I’m looking to collaborate on any Frontend Project ...
-- 📫 How to reach me mail-to : aqibyaseenbhat+github@gmail.com
--->
-<!-- ## 🌐 Reach me at:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aqib-yaseen/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/aqibyaseenbhat) 
- -->
