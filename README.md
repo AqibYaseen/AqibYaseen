@@ -29,4 +29,3 @@
 <p align="left"> <a href="https://twitter.com/aqibyaseenbhat" target="blank"><img src="https://img.shields.io/twitter/follow/aqibyaseenbhat?logo=twitter&style=for-the-badge" alt="aqibyaseenbhat" /></a> </p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aqibyaseen&show_icons=true&locale=en" alt="aqibyaseen" /></p>
